@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/First Scene.unity
+    guid: dbdb8eb1630e06b4ca0f0e517b1a2451
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: c1284de34a45a164ebbcf5dc33014357
+  - enabled: 1
+    path: Assets/Scenes/SampleScene2.unity
+    guid: 9da8d75c78c6d524d9bf25cba73f94c0
+  - enabled: 1
+    path: Assets/Scenes/Skenario Reservasi/Skenario Tutorial.unity
+    guid: f9241a72333132840bc1a10e75b7e62c
+  - enabled: 1
+    path: Assets/Scenes/Skenario Reservasi/Skenario02.unity
+    guid: fedf4681d0f213b43afee0b728dddf7c
+  - enabled: 1
+    path: Assets/Scenes/Skenario Reservasi/Skenario03.unity
+    guid: 7c614d26120f7b84fba39215cc0e6364
+  - enabled: 1
+    path: Assets/Scenes/Skenario Reservasi/Skenario04.unity
+    guid: 4cf0624faa60e4b498cdb2ef2197f189
+  - enabled: 1
+    path: Assets/Scenes/Skenario Reservasi/Skenario05.unity
+    guid: 356c299eb72c49340a1ee7ad716ff960
+  - enabled: 1
+    path: Assets/Scenes/Skenario Reservasi/Skenario06.unity
+    guid: 065333d7f1feb1b4ead6f50e9fb86933
+  - enabled: 1
+    path: Assets/Scenes/Skenario Reservasi/Skenario07.unity
+    guid: 6e0a44177495680449a9fc8435b010f0
+  - enabled: 1
+    path: Assets/Scenes/Skenario Reservasi/Skenario08.unity
+    guid: 36a5af5ea6afac74bbce28aad01842c3
+  - enabled: 1
+    path: Assets/Scenes/Skenario Reservasi/Skenario09.unity
+    guid: 36b48aa55a2dc3847bb230fdde3a211f
+  - enabled: 1
+    path: Assets/Scenes/Skenario Reservasi/SkenarioMad.unity
+    guid: 0c9f807023312074d8fd6bedfa589e2b
+  - enabled: 1
+    path: Assets/Scenes/Skenario Reservasi/SkenarioBingung.unity
+    guid: a76ff1d7b317085408ea6be5ba526aa2
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckIn/CheckIn01.unity
+    guid: 37e159199b73cdb4ea72b64488cee02e
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckIn/CheckIn02.unity
+    guid: 10a3e92ee3747154c9c2a3db2c3a90fc
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckIn/CheckIn03.unity
+    guid: cab3f8af785b2bd4882bb416c4646368
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckIn/CheckIn04.unity
+    guid: cc7a5221801befb46bfbf33d10bece0e
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckIn/CheckIn05.unity
+    guid: a28b53fd2a6492741895d275bb062bea
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckIn/CheckIn06.unity
+    guid: 10710708655f607408179c4145ae3b66
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckIn/CheckIn07.unity
+    guid: c8fd155171a3d5444b617bf3377261f3
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckIn/CheckIn08.unity
+    guid: d3d41710dbca08a4dadc5ee2ba2165a7
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckIn/CheckIn09.unity
+    guid: c8c40901a72c0cb4687c510d136907e6
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckIn/SkenarioMadCheckIn.unity
+    guid: 562d03b4109e3e448b6bb46501fee348
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckIn/SkenarioBingungIn.unity
+    guid: 1f1c13e5055217d49ae30507844afd64
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckOut/CheckOut_01.unity
+    guid: e3ff47a10541c124da222b04ee2ade81
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckOut/CheckOut_02.unity
+    guid: 80ea17a346c07e9479f4e58f2bec8a39
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckOut/CheckOut_03.unity
+    guid: 465e66d661585a34ebcf452f7e189842
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckOut/CheckOut_04.unity
+    guid: 56cf7298fc9d7664891c15131b0a2e31
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckOut/CheckOut_05.unity
+    guid: e3037f300ad197b4d87b863a52451874
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckOut/CheckOut_06.unity
+    guid: af04a4c10f6c784438c01d249651ee48
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckOut/CheckOut_07.unity
+    guid: 972d3556987b458438b85f0e53ae57ba
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckOut/SkenarioMadCheckOut.unity
+    guid: f143c8b607d6a254db4ce76ae81886bc
+  - enabled: 1
+    path: Assets/Scenes/Skenario CheckOut/SkenarioBingungOut.unity
+    guid: b2b76a9b1f157844096323f2b2b5e637
+  m_configObjects: {}

@@ -1,0 +1,26 @@
+﻿-- format
+-- [kata kunci] | [skenario tujuan] | [nilai]
+
+-- simple text --
+orang|Skenario02|10|true|todo2
+kamar|Skenario02|10|true|todo2
+check in|Skenario03|10|true|todo3
+check-in|Skenario03|10|true|todo3
+checkin|Skenario03|10|true|todo3
+check out|Skenario04|10|true|todo4
+check-out|Skenario04|10|true|todo4
+checkout|Skenario04|10|true|todo4
+atas nama|Skenario05|10|true|todo5
+mengulangi nama|Skenario06|10|true|todo6
+mengulang nama|Skenario06|10|true|todo6
+ulang nama|Skenario06|10|true|todo6
+fasilitas|Skenario07|10|true|todo7
+fasilitas|Skenario07|10|true|todo7
+mengulangi pesanan|Skenario08|10|true|todo8
+mengulang pesanan|Skenario08|10|true|todo8
+ulang pesanan|Skenario08|10|true|todo8
+terima kasih|Skenario09|10|true|todo9
+terimakasih|Skenario09|10|true|todo9
+halo|CheckIn02|10|true|todo1
+
+
