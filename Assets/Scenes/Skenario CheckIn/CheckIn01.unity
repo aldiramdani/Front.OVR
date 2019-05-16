@@ -166,7 +166,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 227.64, y: 37.62}
   savedColor: {r: 0.91372555, g: 0.8000001, b: 0.2627451, a: 1}
-  savedTextUV0: {x: 0, y: 0.0078125}
+  savedTextUV0: {x: 0.125, y: 0.87890625}
   savedFill: 0
 --- !u!114 &22245373
 MonoBehaviour:
@@ -263,7 +263,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 160, y: 30}
   savedColor: {r: 0.91372555, g: 0.8000001, b: 0.2627451, a: 1}
-  savedTextUV0: {x: 0, y: 0.0078125}
+  savedTextUV0: {x: 0.125, y: 0.87890625}
   savedFill: 0
 --- !u!114 &46042342
 MonoBehaviour:
@@ -435,7 +435,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 227.64, y: 37.62}
   savedColor: {r: 0.91372555, g: 0.8000001, b: 0.2627451, a: 1}
-  savedTextUV0: {x: 0, y: 0.0078125}
+  savedTextUV0: {x: 0.125, y: 0.87890625}
   savedFill: 0
 --- !u!114 &155113767
 MonoBehaviour:
@@ -680,7 +680,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Skenario01
+          m_StringArgument: CheckIn01
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
@@ -828,7 +828,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 227.64, y: 37.62}
   savedColor: {r: 0.91372555, g: 0.8000001, b: 0.2627451, a: 1}
-  savedTextUV0: {x: 0, y: 0.0078125}
+  savedTextUV0: {x: 0.125, y: 0.87890625}
   savedFill: 0
 --- !u!114 &216394147
 MonoBehaviour:
@@ -925,7 +925,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 227.64, y: 37.62}
   savedColor: {r: 0.91372555, g: 0.8000001, b: 0.2627451, a: 1}
-  savedTextUV0: {x: 0, y: 0.0078125}
+  savedTextUV0: {x: 0.125, y: 0.87890625}
   savedFill: 0
 --- !u!114 &233963221
 MonoBehaviour:
@@ -1020,7 +1020,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 227.64, y: 37.62}
   savedColor: {r: 0.91372555, g: 0.8000001, b: 0.2627451, a: 1}
-  savedTextUV0: {x: 0, y: 0.0078125}
+  savedTextUV0: {x: 0.125, y: 0.87890625}
   savedFill: 0
 --- !u!114 &258482578
 MonoBehaviour:
@@ -1279,7 +1279,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 134, y: 30}
   savedColor: {r: 1, g: 0.77873516, b: 0, a: 1}
-  savedTextUV0: {x: 0.046875, y: 0}
+  savedTextUV0: {x: 0.078125, y: 0.93359375}
   savedFill: 0
 --- !u!1 &367278105
 GameObject:
@@ -1674,7 +1674,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 71.1, y: 22.94}
   savedColor: {r: 1, g: 0.8238857, b: 0.042452812, a: 1}
-  savedTextUV0: {x: 0, y: 0.0078125}
+  savedTextUV0: {x: 0.125, y: 0.87890625}
   savedFill: 0
 --- !u!1001 &592250273
 Prefab:
@@ -3618,7 +3618,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 227.64, y: 37.62}
   savedColor: {r: 0.91372555, g: 0.8000001, b: 0.2627451, a: 1}
-  savedTextUV0: {x: 0, y: 0.0078125}
+  savedTextUV0: {x: 0.125, y: 0.87890625}
   savedFill: 0
 --- !u!114 &1099945873
 MonoBehaviour:
@@ -4052,7 +4052,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 227.64, y: 37.62}
   savedColor: {r: 0.91372555, g: 0.8000001, b: 0.2627451, a: 1}
-  savedTextUV0: {x: 0, y: 0.0078125}
+  savedTextUV0: {x: 0.125, y: 0.87890625}
   savedFill: 0
 --- !u!114 &1343064891
 MonoBehaviour:
@@ -4149,7 +4149,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 227.64, y: 37.62}
   savedColor: {r: 0.91372555, g: 0.8000001, b: 0.2627451, a: 1}
-  savedTextUV0: {x: 0, y: 0.0078125}
+  savedTextUV0: {x: 0.125, y: 0.87890625}
   savedFill: 0
 --- !u!114 &1773533258
 MonoBehaviour:
@@ -5116,7 +5116,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 160, y: 30}
   savedColor: {r: 0.91372555, g: 0.8000001, b: 0.2627451, a: 1}
-  savedTextUV0: {x: 0.1171875, y: 0.2109375}
+  savedTextUV0: {x: 0.265625, y: 0.875}
   savedFill: 0
 --- !u!114 &2084873789
 MonoBehaviour:

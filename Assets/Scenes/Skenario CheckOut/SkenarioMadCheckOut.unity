@@ -572,7 +572,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Skenario01
+          m_StringArgument: CheckOut_01
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
@@ -3484,6 +3484,7 @@ MonoBehaviour:
   btn_startSpeak: {fileID: 809610361}
   btn_insert: {fileID: 0}
   skenarioGanti: SkenarioBingungOut
+  skenarioTujuan: 
   imgCheckmark: {fileID: 0}
   imgCheckmark1: {fileID: 0}
   imgCheckmark2: {fileID: 0}
